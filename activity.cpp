@@ -3,4 +3,12 @@
 using std::cout;
 using std::endl;
 
-i
+int main()
+{
+
+    cout << "selamat datang di TI UMY" << endl;
+
+    cout << 10;
+}
+
+app.cpp
